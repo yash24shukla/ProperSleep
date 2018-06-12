@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProperSleep</string>
+    <string name="TimeLeft">Time Left</string>
+    <string name="mnumber">15 min</string>
+    <string name="Done">just sleep !!</string>
+    <string name="Stop">Stop Alarm</string>
+    <string name="Start">Start 15min timer</string>
+
+</resources>
